@@ -23,7 +23,8 @@ prompt library built from your own questions.
 ---
 
 ### 1.
-
+What's contradictory or missing across the wiki pages, the handover note, and the rest of this folder?
 ### 2.
-
+What was actually included in the 4.2 release?
 ### 3.
+Was someone assigned to investigate why the Bulk Callout and the Routing Override Audit Log still read as unbuilt?
