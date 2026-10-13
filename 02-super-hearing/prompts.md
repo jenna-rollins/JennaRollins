@@ -66,3 +66,11 @@ Since 4.2, provide a breakdown of the time it takes push_to_device  to return? I
 
 Ask engineering for push-service delivery logs, meaning send time and device receipt time per ping, from 29 Jun to 6 Sep. With them I could compare delivery delay before and after 12 Aug, and check whether the four quiet responders’ pings arrive late.
 
+### 14.
+
+Only look at what came in after 12 August. What's different about these compared to everything before?
+
+### 15.
+
+You've now read both folders- customer interviews and tickets. Where do they disagree? What's loud in the interviews but rare in the tickets, and what's all over the tickets that nobody brought up in the interviews?
+
