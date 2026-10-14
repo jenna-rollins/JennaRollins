@@ -16,6 +16,16 @@ prompt library built from your own questions.
 
 ### 1.
 
+Run the query to break this down at the responder-level to see who is missing pings, is the natural next query.
+
 ### 2.
 
+Show me when those four responders' misses started, week by week. Are their any similarities between these four responders that differ from the others?
+
 ### 3.
+
+Split the tickets by topic and include the handler, responder, when the ticket was escalated and if they are open/closed.
+
+### 4.
+
+Once someone's score has been lowered, what do they need to do to start getting pinged again?
